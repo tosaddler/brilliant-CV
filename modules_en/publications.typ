@@ -7,11 +7,14 @@
 #cvSection("Publications")
 
 #cvPublication(
-  bib: bibliography("../src/publications.bib"),
+  bib: bibliography("../src/works.bib"),
   keyList: (
-    "smith2020",
-    "jones2021",
-    "wilson2022",
+    "Castro_2021",
+    "Borrel_2020",
+    "Svoboda_2019",
+    "Phillips_2019",
+    "Ramaiahgari_2019",
+    "Jokinen_2017"
   ),
   refStyle: "apa",
 )

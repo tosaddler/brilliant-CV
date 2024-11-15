@@ -8,7 +8,7 @@
   myAddress: "Your Address Here",
   recipientName: "Company Name Here",
   recipientAddress: "Company Address Here",
-  date: "Today's Date",
+  date: datetime.today().display(),
   subject: "Subject: Hey!",
   metadata: metadata,
   awesomeColors: awesomeColors,
